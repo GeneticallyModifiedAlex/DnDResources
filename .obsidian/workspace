@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "2ded152651482e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "164b813b53e30fe9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-01-31.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "4e6d4e0afc9b05cd"
+      },
+      {
+        "id": "971e4376d35b331d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-01-31.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "4e6d4e0afc9b05cd"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8308722ad3df5e69",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc3ed4aa123358f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a01b573867f39976",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fd3b55def6b1c90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afb1437b4c91ce83",
+    "type": "split",
+    "children": [
+      {
+        "id": "aae419c434f9fdda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca454ae97e3863a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2022-01-31.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "164b813b53e30fe9",
+  "lastOpenFiles": [
+    "Daily Notes/2022-01-31.md",
+    "Projects/1.Want to do/Modified Spam filter.md",
+    "Resources/Useful links.md"
+  ]
+}
